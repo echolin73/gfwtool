@@ -1,8 +1,8 @@
 {
-  "name": "Heroku-v2-ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "gfwtool",
+  "description": "部署gfwtool",
   "keywords": [
-    "v2ray VMess VLESS"
+    "gfwtool"
   ],
   "env": {
     "PROTOCOL": {
